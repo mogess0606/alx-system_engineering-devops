@@ -1,4 +1,5 @@
-nstalling apache and changing output to hello holberton
+#!/usr/bin/env bash
+#installing apache and changing output to hello holberton
 apt-get install apache2 -y
 service apache2 start
 echo "Hello Holberton" > /var/www/html/index.html
