@@ -1,4 +1,3 @@
-Requirements
 General
 Allowed editors: vi, vim, emacs
 All your files will be interpreted on Ubuntu 16.04 LTS
