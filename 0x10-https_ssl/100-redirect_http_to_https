@@ -1,4 +1,6 @@
-                                           File: /etc/haproxy/haproxy.cfg                                                                                                           
+#!/usr/bin/env bash
+
+#File: /etc/haproxy/haproxy.cfg                                                                                                           
 
 global
         log /dev/log    local0
